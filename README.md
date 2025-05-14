@@ -52,7 +52,7 @@ Meine Netzwerksicherheitsrichtlinie behandelt unter anderem folgende Aspekte:
 
 Die vollständige Richtlinie steht hier als PDF zur Verfügung:
 
-📄 **[Netzwerksicherheits-Richtlinie herunterladen](./Netzwerksicherheit-Richtlinie-Marko.pdf)**
+📄 **[Netzwerksicherheits-Richtlinie herunterladen](./Netzwerksicherheit-Richtlinie-Ole.pdf)**
 
 ---
 
